@@ -1,0 +1,37 @@
+HTML CODE :
+
+<!DOCTYPE html>
+<html>
+<body>
+<body bgcolor="yellow">
+<h1>About me</h1>
+<p>I'm Naveena M,a dedicated my web development with a passion for IT industry.</p>
+<p>Having contributed to project like Weather application,Notes Application,I have successfully completed.</p>
+<br>
+<h1>Portfolio</h1>
+<p> Portfolio is a collection of student work compiled over time to show case a learner's progress,skills,</p> <p>and achievements,project work samples,case studies, self relections.</p>
+<br>
+<h1><a href="contact.html">Contact Us</a></h1>
+</body>
+</html>
+
+CONTACT US :
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<body bgcolor="pink">
+<h5> Mail: navyamb20032gamil.com<br></br>
+     Mobile No: 123456789.<br></br></h5>
+<h1>Address</h1>
+<p>#141,5th cross, T G layout.</p>
+<p>Ittamadu,BSK 3rd stage.</p>
+<p>bangalore-85.</p>
+</body>
+</html>
+
+
+
+
+
